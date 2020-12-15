@@ -1,5 +1,5 @@
-# WPF Chrome Tabs
-
+# WPF Chrome Tabs X
+A tab control based on [WPF chrome tabs](https://github.com/realistschuckle/wpfchrometabs),
 A WPF custom tab control built from the ground up to mimic the user experience
 found in Google's Chrome browser.
 
